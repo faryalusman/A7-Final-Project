@@ -42,7 +42,10 @@ way? If so, what is the relationship?
 3. For the various treatment conditions (ratio of matching donation, donation amount suggested), is
 there an association with amount donated?
 
-These questions are answered in the [analysis Jupyter notebook](A7_analysis.ipynb). Images for this notebook are saved in [the images folder](images/)
+These questions are answered in the [analysis Jupyter notebook](A7_analysis.ipynb). Images for this notebook are saved in [the images folder](images/). Acces [this link](What informs charitable giving analysis presentation.pdf) for the presentation related to this analysis.
+
+## Scientific abstract 
+Refer to the [scientific abstract](scientfic_abstract.md), that details the results from this analysis,.
 
 ## License
 This work is under an [MIT License](LICENSE)
