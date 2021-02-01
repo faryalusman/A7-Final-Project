@@ -46,7 +46,7 @@ These questions are answered in the [analysis Jupyter notebook](A7_analysis.ipyn
 the [presentation](presentation.pdf) for more information about the analysis. 
 
 ## Scientific abstract 
-Refer to the [scientific abstract](scientfic_abstract.md), that details the results from this analysis,.
+Refer to the [scientific abstract](scientific_abstract.md), that details the results from this analysis,.
 
 ## License
 This work is under an [MIT License](LICENSE)
