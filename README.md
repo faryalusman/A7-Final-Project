@@ -5,7 +5,7 @@ Final Project A7 Report
 [Does Price Matter in Charitable Giving? Evidence From a Large-Scale Natural Field Experiment](https://www.nber.org/papers/w12338) is an article written by authors Dean Karlan and John A. List about a large scale natural field experiment that they performed on the behavior of donors of a not-for-profit organization. These authors assigned donors to different treatment groups and observed their donation behavior (donation amount, and whether they donated). These treatments included matching ratio treatment, in which donors were promised different matching ratios (1:1, 2:1, or 3:1 donation matching) as well as suggested donation size ( a multiple of highest previous donation). 
 
 ## Accompanying data description 
-The paper data is [hosted on Github](https://github.com/gsbDBI/ExperimentData/blob/master/Charitable/RawData/charitable.csv) as a csv. The data is divided into general demographic variables, donor-specific variables and treatment variables. 
+The paper data is [hosted on Github](https://github.com/gsbDBI/ExperimentData/blob/master/Charitable/RawData/charitable.csv) as a csv. The data is divided into general demographic variables, donor-specific variables and treatment variables. The data is also [in this repository][Data/charitable.csv]
 
 ### Donor specific variables:
 - freq: Number of previous donations
