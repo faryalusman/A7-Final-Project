@@ -42,7 +42,7 @@ way? If so, what is the relationship?
 3. For the various treatment conditions (ratio of matching donation, donation amount suggested), is
 there an association with amount donated?
 
-These questions are answered in the Jupyter notebook. 
+These questions are answered in the [analysis Jupyter notebook](A7_analysis.ipynb). Images for this notebook are saved in [the images folder](images/)
 
 ## License
 This work is under an [MIT License](LICENSE)
