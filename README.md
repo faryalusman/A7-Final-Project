@@ -5,7 +5,7 @@ Final Project A7 Report
 [Does Price Matter in Charitable Giving? Evidence From a Large-Scale Natural Field Experiment](https://www.nber.org/papers/w12338) is an article written by authors Dean Karlan and John A. List about a large scale natural field experiment that they performed on the behavior of donors of a not-for-profit organization. These authors assigned donors to different treatment groups and observed their donation behavior (donation amount, and whether they donated). These treatments included matching ratio treatment, in which donors were promised different matching ratios (1:1, 2:1, or 3:1 donation matching) as well as suggested donation size ( a multiple of highest previous donation). 
 
 ## Accompanying data description 
-The paper data is [hosted on Github](https://github.com/gsbDBI/ExperimentData/blob/master/Charitable/RawData/charitable.csv) as a csv. The data is divided into general demographic variables, donor-specific variables and treatment variables. The data is also [in this repository](Data/charitable.csv)
+The paper data is [hosted on Github](https://github.com/gsbDBI/ExperimentData/blob/master/Charitable/RawData/charitable.csv) as a csv. The data is divided into general demographic variables, donor-specific variables and treatment variables. The data is also in the [data folder](Data/charitable.csv) of this repository. The full data in .dat format with relevant data files is [hosted on Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910/DVN/27853)
 
 ### Donor specific variables:
 - freq: Number of previous donations
@@ -42,7 +42,10 @@ way? If so, what is the relationship?
 3. For the various treatment conditions (ratio of matching donation, donation amount suggested), is
 there an association with amount donated?
 
-These questions are answered in the [analysis Jupyter notebook](A7_analysis.ipynb). Images for this notebook are saved in [the images folder](images/)
+These questions are answered in the [analysis Jupyter notebook](A7_analysis.ipynb). Images for this notebook are saved in [the images folder](images/). Acces [this link](What informs charitable giving analysis presentation.pdf) for the presentation related to this analysis.
+
+## Scientific abstract 
+Refer to the [scientific abstract](scientfic_abstract.md), that details the results from this analysis,.
 
 ## License
 This work is under an [MIT License](LICENSE)
