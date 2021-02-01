@@ -32,3 +32,17 @@ The paper data is [hosted on Github](https://github.com/gsbDBI/ExperimentData/bl
 - treat_askd1: Binary variable indicating whether suggested donation was highest previous contribution
 - treat_askd2: Binary variable indicating whether suggested donation was 1.25 times the highest previous contribution
 - treat_askd3: Binary variable indicating whether suggested donation was 1.50 times the highest previous contribution
+
+## Research questions 
+I want to analyze the provided dataset to investigate the following conditions:
+1. For the variables gender of donor and racial compostion of where the donor comes from, is there a
+relationship between these variables to the dependent variable of amount donation in a signficant
+way? If so, what is the relationship?
+2. What variables in general are the most important when it comes to informing amount donated?
+3. For the various treatment conditions (ratio of matching donation, donation amount suggested), is
+there an association with amount donated?
+
+These questions are answered in the Jupyter notebook. 
+
+## License
+This work is under an [MIT License](LICENSE)
